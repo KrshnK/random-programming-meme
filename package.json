@@ -1,6 +1,6 @@
 {
   "name": "random-programming-meme",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "an npm package that provides random programming memes",
   "main": "index.js",
   "scripts": {
